@@ -1,0 +1,97 @@
+{
+  "id": "7c46c7c04de6428bbc7bb64439ac369c",
+  "answers": [
+    {
+      "elm": "ordering_1",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "w",
+        "h",
+        "i",
+        "s",
+        "t",
+        "l",
+        "e"
+      ]
+    },
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "p",
+        "a",
+        "i",
+        "n",
+        "t"
+      ]
+    },
+    {
+      "elm": "ordering_3",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "s",
+        "p",
+        "e",
+        "a",
+        "k"
+      ]
+    },
+    {
+      "elm": "ordering_4",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "E",
+        "n",
+        "g",
+        "l",
+        "i",
+        "s",
+        "h"
+      ]
+    },
+    {
+      "elm": "ordering_5",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "p",
+        "l",
+        "a",
+        "y"
+      ]
+    },
+    {
+      "elm": "ordering_6",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "t",
+        "h",
+        "e"
+      ]
+    },
+    {
+      "elm": "ordering_7",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "d",
+        "r",
+        "u",
+        "m",
+        "s"
+      ]
+    }
+  ]
+}

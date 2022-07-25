@@ -1,0 +1,19 @@
+{
+  "id": "95781d67876d43bf91c9ff3b93f79f9a",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "I'm playing golf"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "I'm not playing soccer"
+    }
+  ]
+}

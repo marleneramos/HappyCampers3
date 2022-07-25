@@ -1,0 +1,19 @@
+{
+  "id": "bb1e2f008ed94fcc8ad31548efa72109",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "jump, jump, jump"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "jump rope"
+    }
+  ]
+}

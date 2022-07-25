@@ -1,0 +1,38 @@
+{
+  "id": "eeb87e54bf154c7aa8470f71149b90a5",
+  "answers": [
+    {
+      "elm": "crossword_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "crossword_word_1",
+          "type": "simple",
+          "value": "DRAW"
+        },
+        {
+          "elm": "crossword_word_2",
+          "type": "simple",
+          "value": "WHISTLE"
+        },
+        {
+          "elm": "crossword_word_3",
+          "type": "simple",
+          "value": "PAINT"
+        },
+        {
+          "elm": "crossword_word_4",
+          "type": "simple",
+          "value": "GUITAR"
+        },
+        {
+          "elm": "crossword_word_5",
+          "type": "simple",
+          "value": "ENGLISH"
+        }
+      ]
+    }
+  ]
+}

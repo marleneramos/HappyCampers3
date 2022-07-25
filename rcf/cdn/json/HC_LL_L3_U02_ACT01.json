@@ -1,0 +1,82 @@
+{
+  "id": "318488dc75624ff894d5931830954dcb",
+  "answers": [
+    {
+      "elm": "droppable_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_2"
+    },
+    {
+      "elm": "droppable_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_3"
+    },
+    {
+      "elm": "droppable_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_4"
+    },
+    {
+      "elm": "droppable_5",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_5"
+    },
+    {
+      "elm": "droppable_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_6"
+    },
+    {
+      "elm": "droppable_7",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_7"
+    },
+    {
+      "elm": "droppable_8",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_8"
+    },
+    {
+      "elm": "droppable_9",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_9"
+    },
+    {
+      "elm": "droppable_10",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_10"
+    },
+    {
+      "elm": "droppable_11",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_11"
+    },
+    {
+      "elm": "droppable_12",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_12"
+    }
+  ]
+}

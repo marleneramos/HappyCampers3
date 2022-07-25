@@ -1,0 +1,26 @@
+{
+  "id": "bdc4114285344d399b5acf6ce6ec4e21",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "It's June fourteenth"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "It's November twenty-second"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "It's April third"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1cfaffcf1b714c37a02265415bc0092d",
+  "answers": [
+    {
+      "elm": "ordering_1",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "F",
+        "e",
+        "b",
+        "r",
+        "u",
+        "a",
+        "r",
+        "y"
+      ]
+    },
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "A",
+        "p",
+        "r",
+        "i",
+        "l"
+      ]
+    },
+    {
+      "elm": "ordering_3",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "J",
+        "u",
+        "n",
+        "e"
+      ]
+    },
+    {
+      "elm": "ordering_4",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "A",
+        "u",
+        "g",
+        "u",
+        "s",
+        "t"
+      ]
+    },
+    {
+      "elm": "ordering_5",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "N",
+        "o",
+        "v",
+        "e",
+        "m",
+        "b",
+        "e",
+        "r"
+      ]
+    },
+    {
+      "elm": "ordering_6",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "D",
+        "e",
+        "c",
+        "e",
+        "m",
+        "b",
+        "e",
+        "r"
+      ]
+    }
+  ]
+}

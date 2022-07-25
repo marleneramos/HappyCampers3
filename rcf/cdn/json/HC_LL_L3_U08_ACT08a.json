@@ -1,0 +1,133 @@
+{
+  "id": "83606000d0e341a890086dd9119cfc82",
+  "answers": [
+    {
+      "elm": "ordering_1",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "h",
+        "o",
+        "p"
+      ]
+    },
+    {
+      "elm": "ordering_2",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "d",
+        "r",
+        "a",
+        "w"
+      ]
+    },
+    {
+      "elm": "ordering_3",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "j",
+        "u",
+        "m",
+        "p"
+      ]
+    },
+    {
+      "elm": "ordering_4",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "r",
+        "o",
+        "p",
+        "e"
+      ]
+    },
+    {
+      "elm": "ordering_5",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "s",
+        "i",
+        "n",
+        "g"
+      ]
+    },
+    {
+      "elm": "ordering_6",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "p",
+        "a",
+        "i",
+        "n",
+        "t"
+      ]
+    },
+    {
+      "elm": "ordering_7",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "w",
+        "h",
+        "i",
+        "s",
+        "t",
+        "l",
+        "e"
+      ]
+    },
+    {
+      "elm": "ordering_8",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "d",
+        "a",
+        "n",
+        "c",
+        "e"
+      ]
+    },
+    {
+      "elm": "ordering_9",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "s",
+        "p",
+        "e",
+        "a",
+        "k"
+      ]
+    },
+    {
+      "elm": "ordering_10",
+      "type": "sequence",
+      "markType": "list",
+      "markedBy": "engine",
+      "value": [
+        "E",
+        "n",
+        "g",
+        "l",
+        "i",
+        "s",
+        "h"
+      ]
+    }
+  ]
+}

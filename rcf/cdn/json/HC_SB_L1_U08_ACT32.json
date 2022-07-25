@@ -1,0 +1,20 @@
+{
+  "id": "76fab12436d34e96a2ccef85cc1de8eb",
+  "answers": [
+    {
+      "elm": "wordsearch_1",
+      "type": "list",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "RIDEABIKE",
+        "PAINT",
+        "PLAYGUITAR",
+        "SWIM",
+        "WHISTLE",
+        "DANCE",
+        "HOP"
+      ]
+    }
+  ]
+}

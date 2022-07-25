@@ -1,0 +1,43 @@
+{
+  "id": "4b4789fab2dc4725bcb4c25866cdd3f5",
+  "answers": [
+    {
+      "elm": "crossword_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "crossword_word_1",
+          "type": "simple",
+          "value": "CAP"
+        },
+        {
+          "elm": "crossword_word_2",
+          "type": "simple",
+          "value": "JEANS"
+        },
+        {
+          "elm": "crossword_word_3",
+          "type": "simple",
+          "value": "SHORTS"
+        },
+        {
+          "elm": "crossword_word_4",
+          "type": "simple",
+          "value": "SANDALS"
+        },
+        {
+          "elm": "crossword_word_5",
+          "type": "simple",
+          "value": "PANTS"
+        },
+        {
+          "elm": "crossword_word_6",
+          "type": "simple",
+          "value": "SNEAKERS"
+        }
+      ]
+    }
+  ]
+}

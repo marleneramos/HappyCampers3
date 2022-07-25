@@ -1,0 +1,19 @@
+{
+  "id": "347f99d54b4f483f8a82bc1f1e69bbeb",
+  "answers": [
+    {
+      "elm": "typein_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "She's taking out the trash"
+    },
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "They're washing the car"
+    }
+  ]
+}

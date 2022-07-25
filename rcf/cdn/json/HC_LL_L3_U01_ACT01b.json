@@ -1,0 +1,19 @@
+{
+  "id": "d00f5968dbe2493aad31a8d420399440",
+  "answers": [
+    {
+      "elm": "wordsearch_1",
+      "type": "list",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        "FIFTYSIX",
+        "THIRTYFIVE",
+        "FORTYNINE",
+        "TWENTYONE",
+        "EIGHTYTWO",
+        "NINETYEIGHT"
+      ]
+    }
+  ]
+}

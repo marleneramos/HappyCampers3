@@ -1,0 +1,40 @@
+{
+  "id": "563ceb2c759d424bafec0268de635847",
+  "answers": [
+    {
+      "elm": "droppable_1",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_1"
+    },
+    {
+      "elm": "droppable_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_2"
+    },
+    {
+      "elm": "droppable_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_3"
+    },
+    {
+      "elm": "droppable_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_4"
+    },
+    {
+      "elm": "droppable_6",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "droppable_6"
+    }
+  ]
+}

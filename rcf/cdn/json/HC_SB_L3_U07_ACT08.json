@@ -1,0 +1,26 @@
+{
+  "id": "90fcea65d22244ccaf4db010e1cac5e0",
+  "answers": [
+    {
+      "elm": "typein_2",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Are they washing the dishes"
+    },
+    {
+      "elm": "typein_3",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Are they drinking lemonade"
+    },
+    {
+      "elm": "typein_4",
+      "type": "simple",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": "Are they taking a walk"
+    }
+  ]
+}

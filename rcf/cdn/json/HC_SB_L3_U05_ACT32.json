@@ -1,0 +1,34 @@
+{
+  "id": "db33fbe7e8ec4b40b7998c5ac9cbe05c",
+  "answers": [
+    {
+      "elm": "categorise_1",
+      "type": "composite",
+      "markType": "item",
+      "markedBy": "engine",
+      "value": [
+        {
+          "elm": "category_1",
+          "type": "list",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": [
+            "item_1",
+            "item_2",
+            "item_3"
+          ]
+        },
+        {
+          "elm": "category_2",
+          "type": "list",
+          "markType": "item",
+          "markedBy": "engine",
+          "value": [
+            "item_5",
+            "item_6"
+          ]
+        }
+      ]
+    }
+  ]
+}
